@@ -1,7 +1,5 @@
 <h1 align="center">Predictbay</h1>
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://deepraj21-realtime-stock-predictor-app-fhpeiz.streamlit.app/)
-
 <a href="https://predictbay-deployment-gfg-dfdw6l7waq-el.a.run.app/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="google" height="40" width="130"></a>
 
 
